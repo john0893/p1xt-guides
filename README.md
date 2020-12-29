@@ -67,10 +67,10 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 
 | Courses                                                       | Status | Evidence |
 | :------------------------------------------------------------ | :----: | :------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         |        |          |
-| [Algebra II](https://www.khanacademy.org/math/algebra2)       |        |          |
-| [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |          |
-| [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |          |
+| [Algebra I](https://www.khanacademy.org/math/algebra)         |Complete|Highschool|
+| [Algebra II](https://www.khanacademy.org/math/algebra2)       |Complete|Highschool|
+| [Trigonometry](https://www.khanacademy.org/math/trigonometry) |Complete|Highschool|
+| [Precalculus](https://www.khanacademy.org/math/precalculus)   |Complete|Highschool|
 
 ### Tier X - Programming Prep Prep
 
@@ -78,13 +78,13 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            |            |              |
-| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             |            |              |
-| [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |            |              |
-| [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |            |              |
-| [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |            |              |
+| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            | Skip       |  Too Basic   |
+| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             | Skip       |  Too Basic   |
+| [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            | Skip       |  Too Basic   |
+| [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    | Skip       |  Too Basic   |
+| [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        | Skip       |  Too Basic   |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
+| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |  Skip      |Skipped Tier  |
 
 ### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
 
@@ -92,8 +92,8 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| Welcome To Coding                                                                                                                                                     |            |              |
-| Full Stack Online - Intro to Programming                                                                                                                              |            |              |
+| Welcome To Coding                                                                                                                                                     | Complete   |On App Academy|
+| Full Stack Online - Intro to Programming                                                                                                                              | In Progress|              |
 | Full Stack Online - Software Engineering Foundations                                                                                                                  |            |              |
 | Full Stack Online - Ruby                                                                                                                                              |            |              |
 | Full Stack Online - SQL                                                                                                                                               |            |              |
